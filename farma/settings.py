@@ -38,6 +38,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
 
     # 'aqui van las apps'
+    'south',
+    'apps.almacen',
 )
 
 MIDDLEWARE_CLASSES = (
