@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     # 'aqui van las apps'
     'south',
     'apps.almacen',
+    'apps.ventas',
 )
 
 MIDDLEWARE_CLASSES = (
